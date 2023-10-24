@@ -1,11 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pedro Lucas</h1>
-<h3 align="center">Web developer with C#, SQL, Figma & UI/UX skills. Delivering creative solutions to complex problems. Always learning & staying updated with market trends & tech</h3>
-
-- Projeto em desenvolvimento! [ToPlay](https://pedrolsp2.github.io/portifolio/Projetos/ToPlay/inicio.html)
-
-- 👯 Usual [Login](https://pedrolsp2.github.io/portifolio/Projetos/LoginGQQ/login.html)
-
-- 🤝 I’m looking for help with [MoutainBike LeadingPage](https://pedrolsp2.github.io/portifolio/Projetos/MBike/index.html)
+<h3 align="center">Web developer with SQL, Figma & UI/UX skills and JavaScript. Delivering creative solutions to complex problems. Always learning & staying updated with market trends & tech</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
